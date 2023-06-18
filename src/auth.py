@@ -29,5 +29,10 @@ def complete(prompt, max_token=50, outputs=3):
         output.append(i['text'].strip())
     return output
 
-output = complete("Write me a poem")
-print(output)
+def main():
+    # output = complete("Pretend you are google and want to autocomplete the following question: Write a poem ")
+    output = complete("Give me different variations on this prompt that would give different reponses from an NLP model: Write a poem ")
+    print(output)
+
+if __name__ == "__main__":
+    main()
