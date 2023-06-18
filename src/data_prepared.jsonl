@@ -1,0 +1,665 @@
+{"prompt":"What are ->","completion":" What are some of the top long-tail keywords currently trending in the X niche?\n"}
+{"prompt":"Make an outline for a blog post about XYZ using ->","completion":" Make an outline for a blog post about XYZ using related keywords based on Google search data\n"}
+{"prompt":"Write an introduction to ->","completion":" Write an introduction to a blog post about XYZ\n"}
+{"prompt":"Write a blog ->","completion":" Write a blog post about XYZ (this is good instruction for each section of your blog post to get longer content)\n"}
+{"prompt":"What’s a good ->","completion":" What’s a good example of XYZ\n"}
+{"prompt":"Give me a ->","completion":" Give me a step-by-step process for XYZ\n"}
+{"prompt":"What are the pros ->","completion":" What are the pros and cons of XYZ? Present the information in a table.\n"}
+{"prompt":"Give me a personal example of someone using X ->","completion":" Give me a personal example of someone using X product for Y.\n"}
+{"prompt":"Tell ->","completion":" Tell a personal story about X\n"}
+{"prompt":"Write a blog post about X ->","completion":" Write a blog post about X using this keyword (insert keyword) several times naturally throughout the content.\n"}
+{"prompt":"Give ->","completion":" Give me a list of the most frequently asked questions about X.\n"}
+{"prompt":"What is the best approach for creating SEO-friendly content ->","completion":" What is the best approach for creating SEO-friendly content in X niche?\n"}
+{"prompt":"How can highlighting key points and stats ->","completion":" How can highlighting key points and stats make a blog post more effective?\n"}
+{"prompt":"What are some creative ways to rep ->","completion":" What are some creative ways to repurpose old blog posts?\n"}
+{"prompt":"How can bloggers effectively target specific audiences through their ->","completion":" How can bloggers effectively target specific audiences through their content?\n"}
+{"prompt":"What tips and tricks can be used to write ->","completion":" What tips and tricks can be used to write high-converting blog headlines?\n"}
+{"prompt":"How can bloggers ensure ->","completion":" How can bloggers ensure they produce quality content that is easily sharable?\n"}
+{"prompt":"What questions ->","completion":" What questions should be asked when researching topics for a blog post in X niche?\n"}
+{"prompt":"How can audio ->","completion":" How can audio and video content be leveraged to increase traffic to blogs?\n"}
+{"prompt":"How do influencers, industry leaders, and top bloggers use visuals to ->","completion":" How do influencers, industry leaders, and top bloggers use visuals to enhance their content’s impact on readers?\n"}
+{"prompt":"How does ->","completion":" How does blogging help increase brand awareness and generate leads for businesses in X niche?\n"}
+{"prompt":"Are there any techniques or shortcuts for ->","completion":" Are there any techniques or shortcuts for creating professional graphics quickly for blogs?\n"}
+{"prompt":"What strategies can new bloggers use to create ->","completion":" What strategies can new bloggers use to create meaningful relationships with readers online?\n"}
+{"prompt":"What are some interesting ideas for creating unique ->","completion":" What are some interesting ideas for creating unique interactive experiences through blogging?\n"}
+{"prompt":"Should ->","completion":" Should bloggers focus more on quantity or quality when it comes to producing content in X niche?\n"}
+{"prompt":"Are there any clever ways of incorporating infographics into blog posts while still retaining the readability and usability of ->","completion":" Are there any clever ways of incorporating infographics into blog posts while still retaining the readability and usability of the post itself?\n"}
+{"prompt":"Which types of social media posts lead to increased ->","completion":" Which types of social media posts lead to increased engagement with blog content across various platforms?\n"}
+{"prompt":"What topics ->","completion":" What topics should I include in my blog post to rank on Google for X keyword?\n"}
+{"prompt":"Give me 10 SEO-optimized ->","completion":" Give me 10 SEO-optimized titles for a blog post about X.\n"}
+{"prompt":"Write an SEO-optimized Meta ->","completion":" Write an SEO-optimized Meta Description for this blog post.\n"}
+{"prompt":"What are the most popular phrases people use to ->","completion":" What are the most popular phrases people use to search for (keyword) on Google?\n"}
+{"prompt":"Write a creative and SEO-optimized blog post describing the ->","completion":" Write a creative and SEO-optimized blog post describing the benefits of (keyword).\n"}
+{"prompt":"Create a listicle of the top 10 most innovative applications ->","completion":" Create a listicle of the top 10 most innovative applications of (keyword).\n"}
+{"prompt":"Design ->","completion":" Design an SEO-optimized explainer on why businesses need to incorporate (keyword) into their strategies today.\n"}
+{"prompt":"Produce an SEO-friendly guide on how to use ( ->","completion":" Produce an SEO-friendly guide on how to use (keyword) in marketing campaigns.\n"}
+{"prompt":"Write an email to ask (name) at (website) ->","completion":" Write an email to ask (name) at (website) if I can write a guest post for them about (subject).\n"}
+{"prompt":"Find ->","completion":" Find 10 ways businesses can leverage (keyword) to increase revenue.\n"}
+{"prompt":"Design an SEO-friendly ->","completion":" Design an SEO-friendly article exploring the potential impacts of (keyword) on traditional business models.\n"}
+{"prompt":"Create an SEO ->","completion":" Create an SEO-driven content strategy outlining how businesses can make strategic use of (keyword).\n"}
+{"prompt":"Develop an FAQ page optimized for (keyword) searches that also contains ->","completion":" Develop an FAQ page optimized for (keyword) searches that also contains detailed content about its underlying concepts and applications in business strategies today.\n"}
+{"prompt":"Draft a comprehensive checklist detailing what is necessary when ->","completion":" Draft a comprehensive checklist detailing what is necessary when creating search-engine-optimized content.\n"}
+{"prompt":"What are the most important aspects of SEO that I need to focus ->","completion":" What are the most important aspects of SEO that I need to focus on?\n"}
+{"prompt":"How can I get my site ->","completion":" How can I get my site to rank higher in search engine results?\n"}
+{"prompt":"Are there any new tactics ->","completion":" Are there any new tactics or strategies to increase organic traffic?\n"}
+{"prompt":"What is the best keyword research tool ->","completion":" What is the best keyword research tool for SEO?\n"}
+{"prompt":"Is it possible to ->","completion":" Is it possible to optimize content for more than one keyword phrase?\n"}
+{"prompt":"How ->","completion":" How can I track my SEO performance and success metrics?\n"}
+{"prompt":"How does ->","completion":" How does link building help improve my website’s visibility in search results?\n"}
+{"prompt":"Should ->","completion":" Should I use a paid or free tool for link building?\n"}
+{"prompt":"What are ->","completion":" What are the benefits of using long-tail keywords in SEO?\n"}
+{"prompt":"What specific technical elements must be ->","completion":" What specific technical elements must be implemented for SEO optimization success?\n"}
+{"prompt":"Is it worth investing in ->","completion":" Is it worth investing in pay-per-click campaigns for better visibility with search engines like Google and Bing?\n"}
+{"prompt":"How should I approach optimizing my website for voice ->","completion":" How should I approach optimizing my website for voice search queries?\n"}
+{"prompt":"What is the ->","completion":" What is the best way to optimize meta tags, titles, and descriptions for maximum impact on SEO rankings?\n"}
+{"prompt":"Should I ->","completion":" Should I consider using Accelerated Mobile Pages (AMP) as an SEO strategy?\n"}
+{"prompt":"What mistakes should ->","completion":" What mistakes should I avoid when updating pages of my website’s content with SEO optimization in mind?\n"}
+{"prompt":"How to keep track ->","completion":" How to keep track of competitors’ keywords and backlinks to stay ahead of them in SERPs (Search Engine Results Pages).\n"}
+{"prompt":"What are some steps I can take to ->","completion":" What are some steps I can take to optimize mobile UX for better organic rankings?\n"}
+{"prompt":"What local SEO techniques will help me target users near ->","completion":" What local SEO techniques will help me target users near my business location more effectively?\n"}
+{"prompt":"How often should ->","completion":" How often should I update and add new content if I want sustained high rankings on search engines?\n"}
+{"prompt":"Write a sales letter about (topic) for ->","completion":" Write a sales letter about (topic) for (target audience).\n"}
+{"prompt":"Write a series of introductory emails to get ->","completion":" Write a series of introductory emails to get (target audience) to purchase (product, service).\n"}
+{"prompt":"Use the P-A-S (P ->","completion":" Use the P-A-S (Pain, Agitate, Solution) marketing forumla.\n"}
+{"prompt":"Give me a step-by-step marketing plan for a (type of business) ->","completion":" Give me a step-by-step marketing plan for a (type of business) serving (target audience).\n"}
+{"prompt":"Give me a script ->","completion":" Give me a script for a 30-second video about XYZ.\n"}
+{"prompt":"Produce a script for a 20-second ->","completion":" Produce a script for a 20-second commercial.\n"}
+{"prompt":"How to create a successful social media marketing campaign for ->","completion":" How to create a successful social media marketing campaign for XYZ.\n"}
+{"prompt":"Write 10 creative ->","completion":" Write 10 creative and persuasive taglines for an app targeted to young adults.\n"}
+{"prompt":"Create  ->","completion":" Create 10 powerful customer testimonials for a healthcare product targeting senior citizens\n"}
+{"prompt":"Come up with 5 catchy headlines for a ->","completion":" Come up with 5 catchy headlines for a blog post about the importance of using organic cosmetics products\n"}
+{"prompt":"Design 10 engaging social media ->","completion":" Design 10 engaging social media ads for a new restaurant in town\n"}
+{"prompt":"Generate 7 ->","completion":" Generate 7 thought-provoking questions to ask in a survey targeting millennials\n"}
+{"prompt":"Craft 5 attention-grabbing slogans that illustrate the features of a new ->","completion":" Craft 5 attention-grabbing slogans that illustrate the features of a new jewelry line\n"}
+{"prompt":"Compose 8 eye-catching email subject lines ->","completion":" Compose 8 eye-catching email subject lines to introduce HR services to small businesses\n"}
+{"prompt":"Construct 10 informative and concise Tweets informing people ->","completion":" Construct 10 informative and concise Tweets informing people about the latest trends in energy conservation\n"}
+{"prompt":"Develop 7 catchy and clever tag ->","completion":" Develop 7 catchy and clever taglines promoting online education courses\n"}
+{"prompt":"Create 5 effective and ->","completion":" Create 5 effective and convincing sales pitches for a pet grooming product\n"}
+{"prompt":"Brainstorm 10 ideas to help spread awareness ->","completion":" Brainstorm 10 ideas to help spread awareness of the best practices in recycling.\n"}
+{"prompt":"Construct 8 persuasive calls ->","completion":" Construct 8 persuasive calls-to-action related to eco-friendly car-sharing programs.\n"}
+{"prompt":"Rewrite this ->","completion":" Rewrite this email three times with different copywriting techniques.\n"}
+{"prompt":"What’s ->","completion":" What’s the best copywriting formula to use to get X to Y?\n"}
+{"prompt":"Give me a CTA ->","completion":" Give me a CTA that creates urgency.\n"}
+{"prompt":"Write me a template sales pitch ->","completion":" Write me a template sales pitch for (product or service).\n"}
+{"prompt":"The ->","completion":" The impact of influencer marketing on brand awareness.\n"}
+{"prompt":"Using email ->","completion":" Using email marketing to drive conversions.\n"}
+{"prompt":"The ->","completion":" The benefits of content marketing for businesses.\n"}
+{"prompt":"How ->","completion":" How to measure the success of your marketing efforts.\n"}
+{"prompt":"Leveraging the power ->","completion":" Leveraging the power of video marketing for your brand.\n"}
+{"prompt":"Maximizing ->","completion":" Maximizing the ROI of your marketing budget.\n"}
+{"prompt":"The importance of brand storytelling ->","completion":" The importance of brand storytelling in marketing.\n"}
+{"prompt":"Using data-driven insights to ->","completion":" Using data-driven insights to inform marketing decisions.\n"}
+{"prompt":"The impact of user-generated content ->","completion":" The impact of user-generated content on your marketing strategy.\n"}
+{"prompt":"Best practices for creating a mobile-friendly ->","completion":" Best practices for creating a mobile-friendly marketing campaign.\n"}
+{"prompt":"The ->","completion":" The role of event marketing in building brand recognition.\n"}
+{"prompt":"The benefits of creating a multi ->","completion":" The benefits of creating a multi-channel marketing approach.\n"}
+{"prompt":"How ->","completion":" How to effectively target your audience through marketing.\n"}
+{"prompt":"The impact of personalization in marketing ->","completion":" The impact of personalization in marketing and sales.\n"}
+{"prompt":"Int ->","completion":" Integrating traditional and digital marketing for maximum impact.\n"}
+{"prompt":"The importance of measuring and adjusting your marketing ->","completion":" The importance of measuring and adjusting your marketing strategy in real-time.\n"}
+{"prompt":"The ->","completion":" The role of customer experience in modern marketing strategies.\n"}
+{"prompt":"The role ->","completion":" The role of storytelling in branding and marketing.\n"}
+{"prompt":"The impact of search engine optimization ->","completion":" The impact of search engine optimization (SEO) on your marketing strategy.\n"}
+{"prompt":"Using customer data to improve your marketing ->","completion":" Using customer data to improve your marketing tactics.\n"}
+{"prompt":"How to create an effective marketing strategy for a new product ->","completion":" How to create an effective marketing strategy for a new product launch.\n"}
+{"prompt":"The role of customer ->","completion":" The role of customer feedback in shaping your marketing approach.\n"}
+{"prompt":"The impact of ->","completion":" The impact of virtual and augmented reality on marketing.\n"}
+{"prompt":"How to create a marketing campaign that resonates with your target ->","completion":" How to create a marketing campaign that resonates with your target audience.\n"}
+{"prompt":"Write a ->","completion":" Write a mission statement for (business).\n"}
+{"prompt":"Give me 10 creative ways to ->","completion":" Give me 10 creative ways to improve employee satisfaction.\n"}
+{"prompt":"Produce an email to thank my employees for (insert what you are ->","completion":" Produce an email to thank my employees for (insert what you are thankful for).\n"}
+{"prompt":"Write a lead-generation ->","completion":" Write a lead-generation email for (product, service, or business).\n"}
+{"prompt":"Could ->","completion":" Could you give a breakdown of the differences between marketing and sales?\n"}
+{"prompt":"How can ->","completion":" How can a small company boost its online presence?\n"}
+{"prompt":"Any tips ->","completion":" Any tips for keeping customers coming back?\n"}
+{"prompt":"Can you guide me through the ->","completion":" Can you guide me through the process of putting together a winning business plan?\n"}
+{"prompt":"How can a company ->","completion":" How can a company determine if its marketing efforts are paying off?\n"}
+{"prompt":"What’s essential ->","completion":" What’s essential for a successful marketing effort?\n"}
+{"prompt":"How can businesses use social media to expand their customer ->","completion":" How can businesses use social media to expand their customer base?\n"}
+{"prompt":"Can you suggest ways to improve customer ->","completion":" Can you suggest ways to improve customer satisfaction and loyalty?\n"}
+{"prompt":"What steps can a company take to ->","completion":" What steps can a company take to stay ahead in today’s market?\n"}
+{"prompt":"Why is market research crucial for ->","completion":" Why is market research crucial for a business?\n"}
+{"prompt":"Can you explain the pros and ->","completion":" Can you explain the pros and cons of different business ownership structures?\n"}
+{"prompt":"How can a company evaluate and ->","completion":" How can a company evaluate and handle risk effectively?\n"}
+{"prompt":"What is branding and how can a ->","completion":" What is branding and how can a company build its brand image?\n"}
+{"prompt":"Can you share some common hurdles faced by start-ups and how to ->","completion":" Can you share some common hurdles faced by start-ups and how to overcome them?\n"}
+{"prompt":"How ->","completion":" How can a company maintain financial stability and keep growing?\n"}
+{"prompt":"What are the different approaches ->","completion":" What are the different approaches for pricing products or services?\n"}
+{"prompt":"How can a company create and ->","completion":" How can a company create and execute a winning sales strategy?\n"}
+{"prompt":"What’s the role of technology ->","completion":" What’s the role of technology in modern businesses and how can it be used to succeed?\n"}
+{"prompt":"Can you touch on the upsides and ->","completion":" Can you touch on the upsides and downsides of remote work for businesses?\n"}
+{"prompt":"What are the best ways to manage and motivate ->","completion":" What are the best ways to manage and motivate a remote team?\n"}
+{"prompt":"Write a story about X in the style of ->","completion":" Write a story about X in the style of Y.\n"}
+{"prompt":"Generate an emotional goodbye scene ->","completion":" Generate an emotional goodbye scene between a father and son.\n"}
+{"prompt":"Make an outline for a novel called (title) about (pre ->","completion":" Make an outline for a novel called (title) about (premise).\n"}
+{"prompt":"Write a back cover blurb ->","completion":" Write a back cover blurb about (story premise).\n"}
+{"prompt":"Write a query letter for a novel called (title) about (story ->","completion":" Write a query letter for a novel called (title) about (story premise).\n"}
+{"prompt":"Write an outline for ->","completion":" Write an outline for a screenplay about (subject).\n"}
+{"prompt":"Describe a fictional character named (name) who has ->","completion":" Describe a fictional character named (name) who has these qualities (list qualities).\n"}
+{"prompt":"Write an end-of-the-ch ->","completion":" Write an end-of-the-chapter hook for a chapter about (describe the chapter or paste part of it into ChatGPT).\n"}
+{"prompt":"Create a setting description of (location ->","completion":" Create a setting description of (location) at (time).\n"}
+{"prompt":"Design a ->","completion":" Design a world and its inhabitants that would be interesting to explore in a novel.\n"}
+{"prompt":"Describe the relationship between two characters who are enemies but have to work ->","completion":" Describe the relationship between two characters who are enemies but have to work together.\n"}
+{"prompt":"Come up with 10 original ideas for a ->","completion":" Come up with 10 original ideas for a story set in the future.\n"}
+{"prompt":"Develop an antagonist ->","completion":" Develop an antagonist with unique motivations and goals.\n"}
+{"prompt":"Make a detailed novel outline about (premise) that includes three big plot ->","completion":" Make a detailed novel outline about (premise) that includes three big plot twists spaced out over the entire novel.\n"}
+{"prompt":"Give ->","completion":" Give me step-by-step instructions on how to write a marketing plan for a (genre) novel about (premise).\n"}
+{"prompt":"Generate 10 compelling hooks to describe my story about (give a ->","completion":" Generate 10 compelling hooks to describe my story about (give a description).\n"}
+{"prompt":"Write the first chapter of a story about (character) facing a difficult choice between doing the right thing and pursuing their ->","completion":" Write the first chapter of a story about (character) facing a difficult choice between doing the right thing and pursuing their dreams.\n"}
+{"prompt":"Create ->","completion":" Create an interesting world with its own laws, customs, and creatures.\n"}
+{"prompt":"Come up with ->","completion":" Come up with three possible endings for a story about (describe the premise).\n"}
+{"prompt":"Describe the journey of a character who is trying to find ->","completion":" Describe the journey of a character who is trying to find themselves.\n"}
+{"prompt":"Write a ->","completion":" Write a scene of dialogue between a couple who just broke up but are stuck in an elevator together. Format it for a screenplay.\n"}
+{"prompt":"Design a ->","completion":" Design a unique set of monsters with distinct personalities and qualities.\n"}
+{"prompt":"Create ->","completion":" Create a scene between two characters in which one must confess a dark secret to the other.\n"}
+{"prompt":"Paint a picture of a future world in which ->","completion":" Paint a picture of a future world in which (describe current events\/situations)have greatly changed.\n"}
+{"prompt":"Write a story about an unlikely group of characters who come together to save the world from a ->","completion":" Write a story about an unlikely group of characters who come together to save the world from a great evil.\n"}
+{"prompt":"Make a list of challenges and obstacles for a character on ->","completion":" Make a list of challenges and obstacles for a character on their quest to find love.\n"}
+{"prompt":"Craft an action-filled opening paragraph for a novel about ->","completion":" Craft an action-filled opening paragraph for a novel about (describe premise).\n"}
+{"prompt":"Come up with five unique plot twists for ->","completion":" Come up with five unique plot twists for a story about (premise).\n"}
+{"prompt":"Write a ->","completion":" Write a customer testimonial story about (product\/service).\n"}
+{"prompt":"Write the same scene above (paste it into Chat ->","completion":" Write the same scene above (paste it into ChatGPT) from the POV of the (another character).\n"}
+{"prompt":"What are some tips for ->","completion":" What are some tips for making a website look great on any device?\n"}
+{"prompt":"Write ->","completion":" Write a Python script for XYZ.\n"}
+{"prompt":"Please write ->","completion":" Please write me a detailed code to build an XYZ.\n"}
+{"prompt":"Please give me a guide on how to build an app ->","completion":" Please give me a guide on how to build an app that (function).\n"}
+{"prompt":"Write the ->","completion":" Write the code for a chrome extension that (function).\n"}
+{"prompt":"What is the HTML code for ->","completion":" What is the HTML code for (purpose or function)?\n"}
+{"prompt":"Please provide a JavaScript code ->","completion":" Please provide a JavaScript code for XYZ.\n"}
+{"prompt":"Can ->","completion":" Can you break down the difference between what happens on the server and what happens on the user’s device when a website loads?\n"}
+{"prompt":"Why do people ->","completion":" Why do people use CSS preprocessors like Sass and Less?\n"}
+{"prompt":"What’s the deal with single-page applications and how ->","completion":" What’s the deal with single-page applications and how do they differ from traditional websites?\n"}
+{"prompt":"Can you tell me ->","completion":" Can you tell me about progressive web apps and why they’re becoming popular?\n"}
+{"prompt":"Can you explain the difference between ->","completion":" Can you explain the difference between HTML, XHTML, and HTML5?\n"}
+{"prompt":"What are some of the security risks developers need to be aware of when ->","completion":" What are some of the security risks developers need to be aware of when building a website?\n"}
+{"prompt":"Can you give a rundown on how the Document Object Model ( ->","completion":" Can you give a rundown on how the Document Object Model (DOM) works and its role in web development?\n"}
+{"prompt":"What’s the appeal of using a CSS ->","completion":" What’s the appeal of using a CSS framework like Bootstrap?\n"}
+{"prompt":"Can you explain what AJAX is and how it’s used in web ->","completion":" Can you explain what AJAX is and how it’s used in web development?\n"}
+{"prompt":"What are the pros and cons of using a Content Management System (CMS) ->","completion":" What are the pros and cons of using a Content Management System (CMS) for a website?\n"}
+{"prompt":"Can you clear up the difference between HTTP and HTTPS and why HTTPS ->","completion":" Can you clear up the difference between HTTP and HTTPS and why HTTPS is important?\n"}
+{"prompt":"Can you give an overview of the difference between front ->","completion":" Can you give an overview of the difference between front-end and back-end web development?\n"}
+{"prompt":"How does REST play ->","completion":" How does REST play a role in web development and what does it do?\n"}
+{"prompt":"Can you ->","completion":" Can you describe the process of optimizing a website for search engines?\n"}
+{"prompt":"Can you talk about the various ways to store and retrieve data for a ->","completion":" Can you talk about the various ways to store and retrieve data for a website, like databases and APIs?\n"}
+{"prompt":"Why is ->","completion":" Why is accessibility important in web design and how can it be achieved?\n"}
+{"prompt":"Can you give a ->","completion":" Can you give a rundown of the benefits and drawbacks of using JavaScript frameworks like Angular or React?\n"}
+{"prompt":"How does making sure a website works on different browsers impact web development ->","completion":" How does making sure a website works on different browsers impact web development and what can be done to make that happen?\n"}
+{"prompt":"Can you compare and contrast the pros and ->","completion":" Can you compare and contrast the pros and cons of using a web host versus hosting a website yourself?\n"}
+{"prompt":"Can you explain the ->","completion":" Can you explain the concept of modular design in web development and why it’s important?\n"}
+{"prompt":"How does using version control, such as Git, impact the development ->","completion":" How does using version control, such as Git, impact the development process?\n"}
+{"prompt":"Can you discuss the role of WebAssembly in web ->","completion":" Can you discuss the role of WebAssembly in web development and its benefits?\n"}
+{"prompt":"What is ->","completion":" What is the importance of testing and debugging in web development and what tools are commonly used?\n"}
+{"prompt":"Can you talk about the challenges and ->","completion":" Can you talk about the challenges and benefits of implementing e-commerce functionality on a website?\n"}
+{"prompt":"Write an essay ->","completion":" Write an essay about X in the style of Y.\n"}
+{"prompt":"Generate an outline ->","completion":" Generate an outline for an essay about (topic).\n"}
+{"prompt":"Write ->","completion":" Write the introduction for an essay about (topic).\n"}
+{"prompt":"Write an essay section ->","completion":" Write an essay section about (subtopic).\n"}
+{"prompt":"Summarize the essay (paste it into Chat ->","completion":" Summarize the essay (paste it into ChatGPT) in simple language for a child.\n"}
+{"prompt":"Give me a list ->","completion":" Give me a list of references I can use for an essay about (topic).\n"}
+{"prompt":"Convert the following ->","completion":" Convert the following information into an APA-style citation (List the info in ChatGPT).\n"}
+{"prompt":"Research the ->","completion":" Research the following topic and generate a list of 5 key points.\n"}
+{"prompt":"Create a one ->","completion":" Create a one-sentence thesis statement for an essay about (topic).\n"}
+{"prompt":"Describe your ->","completion":" Describe your research process for finding information about (topic).\n"}
+{"prompt":"Write an article about X that could be published in a magazine ->","completion":" Write an article about X that could be published in a magazine or newspaper.\n"}
+{"prompt":"Explain why it’s important ->","completion":" Explain why it’s important to evaluate sources when researching a topic.\n"}
+{"prompt":"Analyze the arguments in ->","completion":" Analyze the arguments in an article (paste it into ChatGPT) and explain why they may or may not be persuasive.\n"}
+{"prompt":"Compare and contrast two sources of information on ->","completion":" Compare and contrast two sources of information on a specific topic.\n"}
+{"prompt":"Find research that ->","completion":" Find research that directly supports or refutes an argument related to (topic).\n"}
+{"prompt":"Describe the ethical implications of using artificial intelligence to write ->","completion":" Describe the ethical implications of using artificial intelligence to write essays.\n"}
+{"prompt":"Explain why (topic) is relevant to ->","completion":" Explain why (topic) is relevant to current events in a concise and clear manner.\n"}
+{"prompt":"Create a list of questions that could be used to start a discussion about ->","completion":" Create a list of questions that could be used to start a discussion about (topic).\n"}
+{"prompt":"Evaluate an argument from a scholarly article related ->","completion":" Evaluate an argument from a scholarly article related to (topic).\n"}
+{"prompt":"Summarize the main points of a scholarly ->","completion":" Summarize the main points of a scholarly article related to (topic).\n"}
+{"prompt":"Generate a list of sources for further reading ->","completion":" Generate a list of sources for further reading about (topic).\n"}
+{"prompt":"An ->","completion":" Analyze the credibility of a source related to (topic).\n"}
+{"prompt":"Create an annotated bibliography about (topic) ->","completion":" Create an annotated bibliography about (topic) with five entries.\n"}
+{"prompt":"Write an editorial about a current issue ->","completion":" Write an editorial about a current issue related to (topic).\n"}
+{"prompt":"Develop an argumentative essay on (topic ->","completion":" Develop an argumentative essay on (topic) from different perspectives.\n"}
+{"prompt":"How ->","completion":" How can I structure an essay?\n"}
+{"prompt":"What would be the best approach to writing ->","completion":" What would be the best approach to writing a paper?\n"}
+{"prompt":"What ->","completion":" What research would be most relevant for X topic?\n"}
+{"prompt":"In (nov ->","completion":" In (novel or book), why did (author)…?\n"}
+{"prompt":"What are some writing techniques used in the passage above (paste the ->","completion":" What are some writing techniques used in the passage above (paste the passage into ChatGPT)?\n"}
+{"prompt":"What are the ->","completion":" What are the fundamental principles of the scientific method and how are they applied in various fields of study?\n"}
+{"prompt":"Explain the process of osmosis and its role in the transport of materials ->","completion":" Explain the process of osmosis and its role in the transport of materials in living organisms.\n"}
+{"prompt":"Discuss the role of the ->","completion":" Discuss the role of the media in shaping public opinion and its impact on democracy.\n"}
+{"prompt":"Outline the events and significance of the American ->","completion":" Outline the events and significance of the American Revolution.\n"}
+{"prompt":"What are the key characteristics and features of different types ->","completion":" What are the key characteristics and features of different types of ecosystems, such as forests, deserts, and grasslands?\n"}
+{"prompt":"Discuss ->","completion":" Discuss the impact of globalization on the economy, society, and culture.\n"}
+{"prompt":"Discuss the causes and effects of the Great Depression and how it was addressed through ->","completion":" Discuss the causes and effects of the Great Depression and how it was addressed through government intervention.\n"}
+{"prompt":"What were the major beliefs and practices of Buddhism and how ->","completion":" What were the major beliefs and practices of Buddhism and how have they evolved over time?\n"}
+{"prompt":"Describe the discovery ->","completion":" Describe the discovery and significance of plate tectonics in understanding the Earth’s geology.\n"}
+{"prompt":"Explain the concept of energy and the ->","completion":" Explain the concept of energy and the different forms it can take, such as thermal, kinetic, and potential energy.\n"}
+{"prompt":"Discuss the impact of technology on ->","completion":" Discuss the impact of technology on education and how it is changing the way we learn.\n"}
+{"prompt":"Outline the ->","completion":" Outline the major events and consequences of World War II.\n"}
+{"prompt":"Explain the process ->","completion":" Explain the process of natural selection and how it leads to evolution.\n"}
+{"prompt":"What is the role of ->","completion":" What is the role of government in regulating the economy and protecting the rights and welfare of citizens?\n"}
+{"prompt":"Discuss the social, cultural, and economic ->","completion":" Discuss the social, cultural, and economic changes brought about by the feminist movement.\n"}
+{"prompt":"Explain the basic principles of aerodynamics ->","completion":" Explain the basic principles of aerodynamics and how they apply to the design of aircraft and other vehicles.\n"}
+{"prompt":"What were the causes and consequences of the collapse of the ->","completion":" What were the causes and consequences of the collapse of the Soviet Union?\n"}
+{"prompt":"Discuss the impact of the Internet and social media ->","completion":" Discuss the impact of the Internet and social media on communication and society.\n"}
+{"prompt":"Describe the key ->","completion":" Describe the key elements and beliefs of Taoism and Confucianism and how they have influenced Chinese culture and philosophy.\n"}
+{"prompt":"What is the role of the judiciary in interpreting and enforcing ->","completion":" What is the role of the judiciary in interpreting and enforcing the law?\n"}
+{"prompt":"Explain the process of ->","completion":" Explain the process of mitosis and meiosis and their significance in cell division and reproduction.\n"}
+{"prompt":"Discuss the impact of the Green Revolution on agriculture and food ->","completion":" Discuss the impact of the Green Revolution on agriculture and food production.\n"}
+{"prompt":"Outline the ->","completion":" Outline the major events and significance of the Cold War.\n"}
+{"prompt":"Explain the basic principles of electromagnetism and their applications in technology and ->","completion":" Explain the basic principles of electromagnetism and their applications in technology and industry.\n"}
+{"prompt":"What ->","completion":" What are the key theories and models in macroeconomics and how are they used to analyze the economy?\n"}
+{"prompt":"Discuss the impact of immigration on society and ->","completion":" Discuss the impact of immigration on society and the economy.\n"}
+{"prompt":"Describe the history and evolution of jazz music ->","completion":" Describe the history and evolution of jazz music and its influence on other musical genres.\n"}
+{"prompt":"What were the causes and consequences of ->","completion":" What were the causes and consequences of the Cuban Revolution?\n"}
+{"prompt":"Explain the basic principles of thermodynamics and their applications in energy and ->","completion":" Explain the basic principles of thermodynamics and their applications in energy and engineering.\n"}
+{"prompt":"Write a comedy script about ->","completion":" Write a comedy script about (subject).\n"}
+{"prompt":"Write a comedy ->","completion":" Write a comedy set about (subject).\n"}
+{"prompt":"What are creative jokes about ->","completion":" What are creative jokes about (topic).\n"}
+{"prompt":"List 10 ->","completion":" List 10 different jokes about (topic).\n"}
+{"prompt":"What are 5 funny or absurd ->","completion":" What are 5 funny or absurd premises I can use in a comedy set?\n"}
+{"prompt":"What are ->","completion":" What are some funny ways to think about (topic)?\n"}
+{"prompt":"What is a controversial opinion about ( ->","completion":" What is a controversial opinion about (topic)?\n"}
+{"prompt":"Give me a list of 10 ridiculous ->","completion":" Give me a list of 10 ridiculous pickup lines.\n"}
+{"prompt":"Tell me a joke that’s so bad ->","completion":" Tell me a joke that’s so bad, it’s actually funny.\n"}
+{"prompt":"Write ->","completion":" Write a funny email.\n"}
+{"prompt":"Write a funny introduction for ( ->","completion":" Write a funny introduction for (name) who (attributes or credentials).\n"}
+{"prompt":"What is a hilarious way to respond to a heckler ->","completion":" What is a hilarious way to respond to a heckler who says (include quote)?\n"}
+{"prompt":"Remember the fun ->","completion":" Remember the funniest prank you ever played or were a part of? Share the story!\n"}
+{"prompt":"Have you come across any conspiracy theories that are just too absurd to be ->","completion":" Have you come across any conspiracy theories that are just too absurd to be true?\n"}
+{"prompt":"We’ve all told a few white lies in our time. What’s the most ridiculous one you’ve ever heard or ->","completion":" We’ve all told a few white lies in our time. What’s the most ridiculous one you’ve ever heard or told yourself?\n"}
+{"prompt":"Everyone has an embarrassing moment they’d rather forget. What ->","completion":" Everyone has an embarrassing moment they’d rather forget. What’s yours?\n"}
+{"prompt":"What’s the funniest movie or TV show you’ve watched lately that had you ->","completion":" What’s the funniest movie or TV show you’ve watched lately that had you in stitches?\n"}
+{"prompt":"Have you ever ->","completion":" Have you ever come across a law or rule that just doesn’t make any sense?\n"}
+{"prompt":"Have you ever had a dream that was just too ridiculous ->","completion":" Have you ever had a dream that was just too ridiculous to be true?\n"}
+{"prompt":"What’s the most absurd food you’ve ever tried and ->","completion":" What’s the most absurd food you’ve ever tried and why did you try it?\n"}
+{"prompt":"What’s the most ridiculous outfit you’ve ever worn and ->","completion":" What’s the most ridiculous outfit you’ve ever worn and why did you wear it?\n"}
+{"prompt":"Do ->","completion":" Do you have a nickname that’s so silly, it’s embarrassing to admit?\n"}
+{"prompt":"Have you ever come across an autocorrect fail that ->","completion":" Have you ever come across an autocorrect fail that had you laughing out loud?\n"}
+{"prompt":"Remember an advertisement that was so absurd, it left you scratching ->","completion":" Remember an advertisement that was so absurd, it left you scratching your head?\n"}
+{"prompt":"Have you ever ->","completion":" Have you ever said or done something in public that was just too ridiculous for words?\n"}
+{"prompt":"We’ve all given an excuse ->","completion":" We’ve all given an excuse or two in our time. What’s the most ridiculous one you’ve ever heard or given?\n"}
+{"prompt":"Have you ->","completion":" Have you ever seen something on social media that was just too absurd to be real?\n"}
+{"prompt":"Have ->","completion":" Have you ever done something for love that was just too ridiculous to explain?\n"}
+{"prompt":"What’s the most ->","completion":" What’s the most absurd thing you’ve ever bought or been gifted with?\n"}
+{"prompt":"Have you ever seen a sports moment that was just ->","completion":" Have you ever seen a sports moment that was just too ridiculous to be true?\n"}
+{"prompt":"Have you ever overheard someone on the phone saying something so absurd, it ->","completion":" Have you ever overheard someone on the phone saying something so absurd, it made you laugh?\n"}
+{"prompt":"Have you ever done something ->","completion":" Have you ever done something for a dare that was just too ridiculous to believe?\n"}
+{"prompt":"Have you ever done something ->","completion":" Have you ever done something to avoid paying a fine that was just too absurd to be true?\n"}
+{"prompt":"Have you ever done something for a bet that was just ->","completion":" Have you ever done something for a bet that was just too ridiculous to explain?\n"}
+{"prompt":"Have you ever met a celebrity that was just ->","completion":" Have you ever met a celebrity that was just too absurd to be real?\n"}
+{"prompt":"Can you delve into the reasons behind the ->","completion":" Can you delve into the reasons behind the outbreak of World War I?\n"}
+{"prompt":"I’d love to learn more ->","completion":" I’d love to learn more about the role of women in the American Civil War. Can you tell me more about that?\n"}
+{"prompt":"I’m interested in the history of the ->","completion":" I’m interested in the history of the Roman Empire. Can you walk me through its rise to power?\n"}
+{"prompt":"Can you explain how the Black ->","completion":" Can you explain how the Black Death impacted medieval Europe?\n"}
+{"prompt":"I’d like to know more about the ->","completion":" I’d like to know more about the events that led to the American Revolution. Can you fill me in on that?\n"}
+{"prompt":"The Ottoman Empire played a big ->","completion":" The Ottoman Empire played a big role in World War I, right? Can you expand on that a bit?\n"}
+{"prompt":"I’ve always been fascinated by ->","completion":" I’ve always been fascinated by Julius Caesar. Can you give me a rundown of his reign in ancient Rome?\n"}
+{"prompt":"The Enlightenment had a huge impact on ->","completion":" The Enlightenment had a huge impact on European society, didn’t it? Can you tell me more about that?\n"}
+{"prompt":"Can ->","completion":" Can you explain what the Thirty Years’ War was all about?\n"}
+{"prompt":"Queen Elizabeth I was a pretty significant figure in English ->","completion":" Queen Elizabeth I was a pretty significant figure in English history, wasn’t she? Can you tell me more about her reign?\n"}
+{"prompt":"The French Revolution really ->","completion":" The French Revolution really shook up Europe, didn’t it? Can you delve into its impact?\n"}
+{"prompt":"Can you ->","completion":" Can you give me an overview of the events of the English Civil War?\n"}
+{"prompt":"The Mongol Empire has had a lasting impact on world history, hasn’t it? Can you tell me ->","completion":" The Mongol Empire has had a lasting impact on world history, hasn’t it? Can you tell me more about that?\n"}
+{"prompt":"The Industrial Revolution brought a lot of change to ->","completion":" The Industrial Revolution brought a lot of change to Europe and North America, didn’t it? Can you tell me more about its impact?\n"}
+{"prompt":"I’m interested in learning more about the American Civil Rights Movement. Can you give ->","completion":" I’m interested in learning more about the American Civil Rights Movement. Can you give me an overview of the events?\n"}
+{"prompt":"Alexander the Great ->","completion":" Alexander the Great was a pretty impressive figure in history, wasn’t he? Can you tell me more about his reign?\n"}
+{"prompt":"World War II had a ->","completion":" World War II had a massive impact on Europe and Asia, didn’t it? Can you elaborate on that?\n"}
+{"prompt":"Can you walk me through the events leading ->","completion":" Can you walk me through the events leading up to the French Revolution?\n"}
+{"prompt":"The Byzantine Empire was an important part of world history, right? Can you give me a rundown of ->","completion":" The Byzantine Empire was an important part of world history, right? Can you give me a rundown of its role?\n"}
+{"prompt":"The Scientific Revolution was a big turning point in Europe, wasn’t it ->","completion":" The Scientific Revolution was a big turning point in Europe, wasn’t it? Can you explain its impact?\n"}
+{"prompt":"Can you give me an overview of the American ->","completion":" Can you give me an overview of the American War of Independence?\n"}
+{"prompt":"C ->","completion":" Cleopatra VII was a fascinating figure in ancient Egypt, wasn’t she? Can you tell me more about her reign?\n"}
+{"prompt":"The Renaissance brought a lot of cultural and artistic changes to Europe, didn’t it ->","completion":" The Renaissance brought a lot of cultural and artistic changes to Europe, didn’t it? Can you tell me more about its impact?\n"}
+{"prompt":"Can you explain the events of the ->","completion":" Can you explain the events of the Spanish conquest of the Aztecs?\n"}
+{"prompt":"The Persian Empire was a major player in world history ->","completion":" The Persian Empire was a major player in world history, wasn’t it? Can you tell me more about its role?\n"}
+{"prompt":"The Protestant Reformation had a big impact ->","completion":" The Protestant Reformation had a big impact on Europe, didn’t it? Can you elaborate on that?\n"}
+{"prompt":"Can you give me an ->","completion":" Can you give me an overview of the events leading up to World War II in Europe?\n"}
+{"prompt":"Headaches are a common issue, but do ->","completion":" Headaches are a common issue, but do you know the most common cause of them?\n"}
+{"prompt":"Exercise is great for your physical health, but ->","completion":" Exercise is great for your physical health, but have you heard about its benefits for mental health too?\n"}
+{"prompt":"Anxiety can be a tough thing to deal with ->","completion":" Anxiety can be a tough thing to deal with. Can you identify the symptoms of anxiety disorder?\n"}
+{"prompt":"The common cold is a nuisance, ->","completion":" The common cold is a nuisance, but what steps can you take to prevent it?\n"}
+{"prompt":"COVID-19 is still a concern for many ->","completion":" COVID-19 is still a concern for many of us. How does someone get tested for it?\n"}
+{"prompt":"Your diet can play a big role in ->","completion":" Your diet can play a big role in many aspects of your health, including heart disease. Want to know more?\n"}
+{"prompt":"Staying hydrated is ->","completion":" Staying hydrated is important, but how much water should an adult be drinking every day?\n"}
+{"prompt":"Sm ->","completion":" Smoking is bad for you, but quitting can be difficult. What’s the most effective way to quit smoking?\n"}
+{"prompt":"Depression can be overwhelming ->","completion":" Depression can be overwhelming. What treatments are available for it?\n"}
+{"prompt":"Meditation is becoming more and more popular, but do you ->","completion":" Meditation is becoming more and more popular, but do you know its benefits?\n"}
+{"prompt":"Stress ->","completion":" Stress can have a negative impact on many parts of your body, including your immune system. Want to know more?\n"}
+{"prompt":"Diabetes is a common health issue, but did you know there are two different types? Let’s discuss type ->","completion":" Diabetes is a common health issue, but did you know there are two different types? Let’s discuss type 1 and type 2.\n"}
+{"prompt":"Chem ->","completion":" Chemotherapy is a powerful treatment, but it also comes with side effects. Explain.\n"}
+{"prompt":"High blood pressure can be ->","completion":" High blood pressure can be dangerous, but what are some effective ways to reduce it?\n"}
+{"prompt":"Alcohol is a part of many people’s ->","completion":" Alcohol is a part of many people’s lives, but how does it impact liver health?\n"}
+{"prompt":"Heart attacks can be serious ->","completion":" Heart attacks can be serious, but do you know the warning signs and what to do if you experience them?\n"}
+{"prompt":"Chronic pain can be debilitating, but what are some ->","completion":" Chronic pain can be debilitating, but what are some ways to manage it effectively?\n"}
+{"prompt":"Infertility is an issue for many couples, but what ->","completion":" Infertility is an issue for many couples, but what causes infertility in men and women?\n"}
+{"prompt":"Steroids can be helpful in some cases ->","completion":" Steroids can be helpful in some cases, but what are the long-term effects of using them?\n"}
+{"prompt":"There are many options for birth control, but ->","completion":" There are many options for birth control, but what is the most effective form?\n"}
+{"prompt":"Sleep and weight gain ->","completion":" Sleep and weight gain are linked, but how exactly do they impact each other?\n"}
+{"prompt":"Our environment can have a big impact on our health. Want to ->","completion":" Our environment can have a big impact on our health. Want to know more?\n"}
+{"prompt":"A sedentary lifestyle can be harmful to ->","completion":" A sedentary lifestyle can be harmful to your health. Let’s talk about the dangers of it.\n"}
+{"prompt":"Boosting your immune system can help keep you healthy, but what’s the best way ->","completion":" Boosting your immune system can help keep you healthy, but what’s the best way to do it?\n"}
+{"prompt":"Air ->","completion":" Air pollution is a growing concern, but how does it impact respiratory health?\n"}
+{"prompt":"Osteoporosis is ->","completion":" Osteoporosis is a condition that affects bone health, but what are its symptoms?\n"}
+{"prompt":"Your gut bacteria plays a big role in your overall health. Want ->","completion":" Your gut bacteria plays a big role in your overall health. Want to learn more?\n"}
+{"prompt":"Stress and anxiety can ->","completion":" Stress and anxiety can be tough to manage, but what are some of the best ways to do so?\n"}
+{"prompt":"Strokes can be serious, but do you know the warning signs and what to do if ->","completion":" Strokes can be serious, but do you know the warning signs and what to do if you experience them?\n"}
+{"prompt":"Give me a detailed prompt for an AI text-to-image generator to produce ->","completion":" Give me a detailed prompt for an AI text-to-image generator to produce (the kind of image you want).\n"}
+{"prompt":"How did the ->","completion":" How did the Abstract Expressionism movement change the art world in the mid-20th century?\n"}
+{"prompt":"Can you ->","completion":" Can you explain the difference between Impressionism and Post-Impressionism?\n"}
+{"prompt":"How did the Renaissance influence the development of modern ->","completion":" How did the Renaissance influence the development of modern art?\n"}
+{"prompt":"Discuss the role of color in ->","completion":" Discuss the role of color in the Fauvism movement.\n"}
+{"prompt":"How did the ->","completion":" How did the Dada movement challenge traditional art forms and concepts?\n"}
+{"prompt":"What ->","completion":" What are the key elements of Surrealist art and how did it develop?\n"}
+{"prompt":"Can you describe the Pop Art movement and its impact on society and ->","completion":" Can you describe the Pop Art movement and its impact on society and culture?\n"}
+{"prompt":"How did ->","completion":" How did the Bauhaus school shape the future of art and design?\n"}
+{"prompt":"Can you explain the cubist style and its influence ->","completion":" Can you explain the cubist style and its influence on modern art?\n"}
+{"prompt":"How has Street Art evolved and become a recognized ->","completion":" How has Street Art evolved and become a recognized form of expression?\n"}
+{"prompt":"Discuss the role ->","completion":" Discuss the role of feminist art in shaping cultural and political discourse.\n"}
+{"prompt":"Can you ->","completion":" Can you describe the role of political and social activism in the development of Public Art?\n"}
+{"prompt":"How has technology changed the way artists ->","completion":" How has technology changed the way artists create and display their work?\n"}
+{"prompt":"What is the significance of ->","completion":" What is the significance of the Arts and Crafts movement in the history of art?\n"}
+{"prompt":"Can you explain the impact of Abstract ->","completion":" Can you explain the impact of Abstract Art on the development of modern art?\n"}
+{"prompt":"How did the punk rock ->","completion":" How did the punk rock movement influence the creation of new forms of art and expression?\n"}
+{"prompt":"Can you describe the role of the avant-garde in the ->","completion":" Can you describe the role of the avant-garde in the development of modern art?\n"}
+{"prompt":"Discuss the influence of African art on the modern ->","completion":" Discuss the influence of African art on the modern art world.\n"}
+{"prompt":"What role did ->","completion":" What role did the Gothic style play in the development of art and architecture?\n"}
+{"prompt":"How has the use of digital media changed the way ->","completion":" How has the use of digital media changed the way artists approach portraiture?\n"}
+{"prompt":"Can you explain ->","completion":" Can you explain the impact of the Futurist movement on modern art and culture?\n"}
+{"prompt":"Discuss the role of the “found object ->","completion":" Discuss the role of the “found object” in the creation of modern art.\n"}
+{"prompt":"Give me recipes I ->","completion":" Give me recipes I can make with these ingredients (list ingredients).\n"}
+{"prompt":"What are the best spices to add ->","completion":" What are the best spices to add to a dish to enhance its flavor?\n"}
+{"prompt":"How do ->","completion":" How do you properly cook a steak to achieve the perfect tenderness and flavor?\n"}
+{"prompt":"What are some ->","completion":" What are some healthy and tasty alternatives to traditional pasta dishes?\n"}
+{"prompt":"How do you make ->","completion":" How do you make a classic tomato sauce from scratch?\n"}
+{"prompt":"What ->","completion":" What are the essential tools every kitchen should have?\n"}
+{"prompt":"What are some easy and quick meals to make for busy weekn ->","completion":" What are some easy and quick meals to make for busy weeknights?\n"}
+{"prompt":"How do you properly ->","completion":" How do you properly store fresh herbs to keep them from wilting too quickly?\n"}
+{"prompt":"What are some common mistakes ->","completion":" What are some common mistakes people make when baking cakes?\n"}
+{"prompt":"What are the health benefits of cooking with coconut ->","completion":" What are the health benefits of cooking with coconut oil?\n"}
+{"prompt":"How do you properly clean and maintain a cast ->","completion":" How do you properly clean and maintain a cast iron pan?\n"}
+{"prompt":"What are the ->","completion":" What are the different types of vinegar and how do they differ in taste and use?\n"}
+{"prompt":"How do you make ->","completion":" How do you make a vegan version of a traditional meat dish?\n"}
+{"prompt":"What are some common misconceptions about gluten-free cooking and ->","completion":" What are some common misconceptions about gluten-free cooking and baking?\n"}
+{"prompt":"How do you make a hearty and filling soup ->","completion":" How do you make a hearty and filling soup for a cold winter day?\n"}
+{"prompt":"What are the best oils to use for high ->","completion":" What are the best oils to use for high-heat cooking?\n"}
+{"prompt":"What are some unique and interesting ways to ->","completion":" What are some unique and interesting ways to use leftovers?\n"}
+{"prompt":"How do you make ->","completion":" How do you make a creamy and smooth Hollandaise sauce?\n"}
+{"prompt":"What are some different ways to prepare and cook ->","completion":" What are some different ways to prepare and cook vegetables for maximum flavor and nutrition?\n"}
+{"prompt":"How ->","completion":" How do you properly clean and store fresh mushrooms?\n"}
+{"prompt":"What are some healthy and tasty snack options for work or ->","completion":" What are some healthy and tasty snack options for work or school?\n"}
+{"prompt":"How do you make ->","completion":" How do you make a delicious and fluffy scrambled egg?\n"}
+{"prompt":"What are ->","completion":" What are the benefits of using fresh versus canned ingredients in cooking?\n"}
+{"prompt":"How do you make a simple and flavorful marinade for grilled ->","completion":" How do you make a simple and flavorful marinade for grilled meats?\n"}
+{"prompt":"What are some common cooking techniques used in different cuisines around ->","completion":" What are some common cooking techniques used in different cuisines around the world?\n"}
+{"prompt":"How do you make a traditional and authentic ->","completion":" How do you make a traditional and authentic sushi roll?\n"}
+{"prompt":"What are some tips and tricks for successful grilling ->","completion":" What are some tips and tricks for successful grilling and barbecuing?\n"}
+{"prompt":"How do you make a flavorful and aromatic broth or ->","completion":" How do you make a flavorful and aromatic broth or stock?\n"}
+{"prompt":"What are some delicious and healthy ways to use ->","completion":" What are some delicious and healthy ways to use tofu in cooking?\n"}
+{"prompt":"How do you make ->","completion":" How do you make a light and crispy tempura batter?\n"}
+{"prompt":"What are some different ways to cook and serve fish for ->","completion":" What are some different ways to cook and serve fish for a healthy and tasty meal?\n"}
+{"prompt":"Write a song about X ->","completion":" Write a song about X in the style of Y.\n"}
+{"prompt":"Write an original musical score to ->","completion":" Write an original musical score to the lyrics listed above.\n"}
+{"prompt":"Create a jazz instrumental inspired by ->","completion":" Create a jazz instrumental inspired by the movie (Insert movie title)\n"}
+{"prompt":"Compose ->","completion":" Compose a song about (topic).\n"}
+{"prompt":"Produce a track based on ->","completion":" Produce a track based on the idea of human-machine collaboration.\n"}
+{"prompt":"Generate a melodic theme for a song with this ->","completion":" Generate a melodic theme for a song with this chorus (paste in chorus).\n"}
+{"prompt":"Write an EDM ->","completion":" Write an EDM track with a combination of artificial and natural instruments.\n"}
+{"prompt":"Incorporate ->","completion":" Incorporate lyrical phrases about (topic).\n"}
+{"prompt":"Write chord progressions reminiscent of classic ->","completion":" Write chord progressions reminiscent of classic Beatles hits.\n"}
+{"prompt":"Rewrite the song (enter song title) to be about ( ->","completion":" Rewrite the song (enter song title) to be about (topic).\n"}
+{"prompt":"Create ->","completion":" Create a hip-hop beat inspired by (genre).\n"}
+{"prompt":"Arrange a symphony based on ( ->","completion":" Arrange a symphony based on (your favorite short story).\n"}
+{"prompt":"Generate a ->","completion":" Generate a musical score for the following poem (paste in the poem).\n"}
+{"prompt":"Produce an original blues song about a ->","completion":" Produce an original blues song about a life-changing event.\n"}
+{"prompt":"Craft a rock anthem about ->","completion":" Craft a rock anthem about hope and resilience.\n"}
+{"prompt":"Compose a classical piece about the ->","completion":" Compose a classical piece about the beauty of nature.\n"}
+{"prompt":"Create an intricate instrumental for a ->","completion":" Create an intricate instrumental for a concept album about (topic).\n"}
+{"prompt":"Write an original song with lyrics that tell a ->","completion":" Write an original song with lyrics that tell a story about (idea or subject).\n"}
+{"prompt":"Generate a soundtrack to accompany the visuals depicted in a painting (enter ->","completion":" Generate a soundtrack to accompany the visuals depicted in a painting (enter famous painting title).\n"}
+{"prompt":"Produce a contemporary ->","completion":" Produce a contemporary pop track inspired by traditional folk music.\n"}
+{"prompt":"Design ->","completion":" Design a soundscape for a video game about (topic).\n"}
+{"prompt":"Compose a musical score with unique instrumentation for the short ->","completion":" Compose a musical score with unique instrumentation for the short film (enter short film title).\n"}
+{"prompt":"Write an original song that pays ->","completion":" Write an original song that pays homage to earlier works from the same genre. The genre is XYZ.\n"}
+{"prompt":"Produce a track featuring spoken word poetry about unity and to ->","completion":" Produce a track featuring spoken word poetry about unity and togetherness.\n"}
+{"prompt":"Create a house remix of an existing ->","completion":" Create a house remix of an existing song (enter song title).\n"}
+{"prompt":"Arrange a modern dance track with ->","completion":" Arrange a modern dance track with influences from classical music.\n"}
+{"prompt":"Generate an original beat heavily inspired by classic rap ->","completion":" Generate an original beat heavily inspired by classic rap music.\n"}
+{"prompt":"Design a unique soundtrack that reflects ->","completion":" Design a unique soundtrack that reflects the emotions of (insert emotion).\n"}
+{"prompt":"Compose an EDM piece ->","completion":" Compose an EDM piece to accompany a short animation film about (topic).\n"}
+{"prompt":"Looking for some great single-player ->","completion":" Looking for some great single-player games for your Xbox? Let’s explore some options.\n"}
+{"prompt":"PC is the ultimate platform for multiplayer games. Let’s discover some of ->","completion":" PC is the ultimate platform for multiplayer games. Let’s discover some of the most popular ones.\n"}
+{"prompt":"Not all open-world games get the recognition ->","completion":" Not all open-world games get the recognition they deserve. Let’s uncover some hidden gems.\n"}
+{"prompt":"Virtual Reality is an ->","completion":" Virtual Reality is an immersive experience, and these games make the most of it.\n"}
+{"prompt":"Survival ->","completion":" Survival games can be nail-bitingly tense. Let’s count down the best ones of all time.\n"}
+{"prompt":"Mobile gaming is ->","completion":" Mobile gaming is big business and these games are incredibly addictive.\n"}
+{"prompt":"Console fighting games have come a long way. Let’s take ->","completion":" Console fighting games have come a long way. Let’s take a look at the best ones.\n"}
+{"prompt":"Xbox is perfect for co ->","completion":" Xbox is perfect for co-op games. Let’s find out which ones to play with your friends.\n"}
+{"prompt":"PC gaming is at its best when played with friends. Here are some of the ->","completion":" PC gaming is at its best when played with friends. Here are some of the best games to try.\n"}
+{"prompt":"Nintendo Switch is a versatile platform and ->","completion":" Nintendo Switch is a versatile platform and these RPGs are just the ticket.\n"}
+{"prompt":"Puzzle ->","completion":" Puzzle games can be fiendishly difficult. Let’s find the most challenging ones.\n"}
+{"prompt":"Racing games are all ->","completion":" Racing games are all about speed and style. Here are the best ones for PS5.\n"}
+{"prompt":"Nintendo Switch is great for kids and these games will ->","completion":" Nintendo Switch is great for kids and these games will keep them entertained.\n"}
+{"prompt":"Xbox is capable of some stunning graphics, and these games ->","completion":" Xbox is capable of some stunning graphics, and these games are the proof.\n"}
+{"prompt":"PC is the king of strategy games. Let’s explore some ->","completion":" PC is the king of strategy games. Let’s explore some of the best ones.\n"}
+{"prompt":"Xbox is the perfect platform for horror ->","completion":" Xbox is the perfect platform for horror games. Let’s dive into some of the scariest ones.\n"}
+{"prompt":"PS4 is home to some great ->","completion":" PS4 is home to some great games for sports fans. Let’s find the best ones.\n"}
+{"prompt":"Nintendo Switch is a relaxing platform and ->","completion":" Nintendo Switch is a relaxing platform and these games will help you unwind.\n"}
+{"prompt":"PC games can be educational, ->","completion":" PC games can be educational, and these ones are perfect for history buffs.\n"}
+{"prompt":"Xbox has some great ->","completion":" Xbox has some great games for space enthusiasts. Let’s take a look.\n"}
+{"prompt":"PS5 is packed with action games, and these are the most ->","completion":" PS5 is packed with action games, and these are the most engaging.\n"}
+{"prompt":"Nintendo Switch is perfect for adventure games. Let’s find ->","completion":" Nintendo Switch is perfect for adventure games. Let’s find the best ones.\n"}
+{"prompt":"PC games can be musical too, and these ones are perfect for ->","completion":" PC games can be musical too, and these ones are perfect for music lovers.\n"}
+{"prompt":"Xbox has some great games for car ->","completion":" Xbox has some great games for car enthusiasts. Let’s discover them.\n"}
+{"prompt":"PS5 is home to some of the most creative sandbox ->","completion":" PS5 is home to some of the most creative sandbox games. List the most popular.\n"}
+{"prompt":"Nintendo Switch has ->","completion":" Nintendo Switch has some great games for animal lovers. Let’s find them.\n"}
+{"prompt":"PC games can be visually stunning, ->","completion":" PC games can be visually stunning, and these ones are proof.\n"}
+{"prompt":"X ->","completion":" Xbox has some great games for mystery fans. Let’s explore them.\n"}
+{"prompt":"PS5 has some great games for book lovers. ->","completion":" PS5 has some great games for book lovers. Let’s find the best ones.\n"}
+{"prompt":"Nintendo Switch is a great ->","completion":" Nintendo Switch is a great platform for indie games, and these are the most innovative.\n"}
+{"prompt":"What are some great pet options for those who live in apartments and don’t have a lot of free time for ->","completion":" What are some great pet options for those who live in apartments and don’t have a lot of free time for maintenance?\n"}
+{"prompt":"How ->","completion":" How can you tell if your feline friend is in discomfort?\n"}
+{"prompt":"What breeds of dogs make the best companions for families ->","completion":" What breeds of dogs make the best companions for families with young kids?\n"}
+{"prompt":"Can you recommend some strategies for stopping excessive b ->","completion":" Can you recommend some strategies for stopping excessive barking in dogs?\n"}
+{"prompt":"What health issues should you be aware of if you ->","completion":" What health issues should you be aware of if you have a pet hamster?\n"}
+{"prompt":"How do you ->","completion":" How do you effectively litter train a kitten?\n"}
+{"prompt":"Are there any pets that are particularly suitable for people with ->","completion":" Are there any pets that are particularly suitable for people with allergies?\n"}
+{"prompt":"What can you do if your ->","completion":" What can you do if your pet struggles with separation anxiety?\n"}
+{"prompt":"How do you choose the right size ->","completion":" How do you choose the right size fish tank for your new pet fish?\n"}
+{"prompt":"What ->","completion":" What are the key factors to keep in mind when thinking of getting a pet bird?\n"}
+{"prompt":"What type of food is best ->","completion":" What type of food is best for a pet rabbit?\n"}
+{"prompt":"How often ->","completion":" How often should you take your dog out for walks?\n"}
+{"prompt":"What health problems should you ->","completion":" What health problems should you watch out for if you have a guinea pig as a pet?\n"}
+{"prompt":"How ->","completion":" How can you teach your dog some fun tricks?\n"}
+{"prompt":"What pets are the best option for someone who travels ->","completion":" What pets are the best option for someone who travels frequently?\n"}
+{"prompt":"How can you make sure your pet stays ->","completion":" How can you make sure your pet stays cool during hot weather?\n"}
+{"prompt":"What are the important things to ->","completion":" What are the important things to think about before getting a pet turtle?\n"}
+{"prompt":"How can you prevent your cat ->","completion":" How can you prevent your cat from scratching up your furniture?\n"}
+{"prompt":"What dog breeds are ->","completion":" What dog breeds are best for seniors?\n"}
+{"prompt":"What health issues should you be aware of if you have ->","completion":" What health issues should you be aware of if you have a pet ferret?\n"}
+{"prompt":"How can ->","completion":" How can you help your pet adjust to a new home environment?\n"}
+{"prompt":"What kind of food should you feed your pet hedge ->","completion":" What kind of food should you feed your pet hedgehog?\n"}
+{"prompt":"How often should you take your cat for check ->","completion":" How often should you take your cat for check-ups at the vet?\n"}
+{"prompt":"What are the most important things to consider before getting ->","completion":" What are the most important things to consider before getting a pet snake?\n"}
+{"prompt":"How can you stop your ->","completion":" How can you stop your cat from spraying inside the house?\n"}
+{"prompt":"What pet reptiles are the best for ->","completion":" What pet reptiles are the best for someone who’s new to the world of reptile ownership?\n"}
+{"prompt":"How can you help your pet deal with ->","completion":" How can you help your pet deal with their fear of fireworks?\n"}
+{"prompt":"What type of food ->","completion":" What type of food is best for a pet chinchilla?\n"}
+{"prompt":"How can you ->","completion":" How can you help your pet cope with the loss of another pet they were close to?\n"}
+{"prompt":"What pet invertebrates are the easiest for beginners ->","completion":" What pet invertebrates are the easiest for beginners to care for?\n"}
+{"prompt":"Can you give me a rundown on the different types of financial investments and what ->","completion":" Can you give me a rundown on the different types of financial investments and what to consider when choosing them?\n"}
+{"prompt":"I’m ->","completion":" I’m trying to plan for my financial future. Can you suggest a good approach to creating a long-term plan?\n"}
+{"prompt":"Can you break down the stock market for me? I want to understand how ->","completion":" Can you break down the stock market for me? I want to understand how it works.\n"}
+{"prompt":"I’m trying to educate myself on investing. Can you help me understand the ->","completion":" I’m trying to educate myself on investing. Can you help me understand the difference between bonds and stocks?\n"}
+{"prompt":"I’ve heard about mutual funds but I’m not sure what they are. ->","completion":" I’ve heard about mutual funds but I’m not sure what they are. Can you explain it in simple terms?\n"}
+{"prompt":"Why are index funds so ->","completion":" Why are index funds so highly recommended for investing?\n"}
+{"prompt":"I’m trying to choose between ->","completion":" I’m trying to choose between a savings account and a money market account. Can you explain the pros and cons of each?\n"}
+{"prompt":"Should I buy or lease a ->","completion":" Should I buy or lease a car? Can you help me weigh the options?\n"}
+{"prompt":"Can you explain the differences ->","completion":" Can you explain the differences between a Roth IRA and a traditional IRA?\n"}
+{"prompt":"I’m worried about inflation affecting my investments. Can you give me some insights on ->","completion":" I’m worried about inflation affecting my investments. Can you give me some insights on that?\n"}
+{"prompt":"I want to start investing, ->","completion":" I want to start investing, but I don’t know how to determine my risk tolerance. Can you help?\n"}
+{"prompt":"How can I make sure my investment portfolio is ->","completion":" How can I make sure my investment portfolio is diversified?\n"}
+{"prompt":"I’m considering hiring a financial advisor. Can ->","completion":" I’m considering hiring a financial advisor. Can you explain the benefits and drawbacks?\n"}
+{"prompt":"Can you walk me through the steps of ->","completion":" Can you walk me through the steps of buying a stock?\n"}
+{"prompt":"Can you explain how a ->","completion":" Can you explain how a 401(k) plan works?\n"}
+{"prompt":"What should I know about life insurance before I buy a ->","completion":" What should I know about life insurance before I buy a policy?\n"}
+{"prompt":"Budgeting has never ->","completion":" Budgeting has never been my strong suit. Can you give me some tips on how to create and stick to a budget?\n"}
+{"prompt":"Can you explain compounding interest and why it’s important for ->","completion":" Can you explain compounding interest and why it’s important for my investments?\n"}
+{"prompt":"What’s the difference between a fixed annuity and a variable ann ->","completion":" What’s the difference between a fixed annuity and a variable annuity?\n"}
+{"prompt":"Can you help me understand the pros and cons ->","completion":" Can you help me understand the pros and cons of a traditional 401(k) vs a Roth 401(k)?\n"}
+{"prompt":"I want to improve my credit score. Can you give ->","completion":" I want to improve my credit score. Can you give me some tips on how to do that?\n"}
+{"prompt":"Can you explain what factors impact the interest rate on ->","completion":" Can you explain what factors impact the interest rate on a mortgage loan?\n"}
+{"prompt":"I’m considering a home equity loan. Can you ->","completion":" I’m considering a home equity loan. Can you walk me through the process?\n"}
+{"prompt":"I want to get my finances in order. Can you suggest some strategies for reducing ->","completion":" I want to get my finances in order. Can you suggest some strategies for reducing debt and improving my financial health?\n"}
+{"prompt":"How ->","completion":" How can I protect my investments from market ups and downs?\n"}
+{"prompt":"E ->","completion":" Estate planning and creating a will are important, but I don’t know where to start. Can you help?\n"}
+{"prompt":"Can you explain what a ->","completion":" Can you explain what a reverse mortgage is and how it works?\n"}
+{"prompt":"I want to save for my child’s college ->","completion":" I want to save for my child’s college education. What are the best options?\n"}
+{"prompt":"I’m getting closer to retirement age. ->","completion":" I’m getting closer to retirement age. Can you help me plan for a secure financial future?\n"}
+{"prompt":"I want ->","completion":" I want to be a smart and successful investor. Can you give me some tips on how to achieve that?\n"}
+{"prompt":"Please give me step-by-step instructions for making a personal ->","completion":" Please give me step-by-step instructions for making a personal budget.\n"}
+{"prompt":"What are the benefits of incorporating strength training into a fitness ->","completion":" What are the benefits of incorporating strength training into a fitness routine?\n"}
+{"prompt":"What are the best exercises for toning the legs ->","completion":" What are the best exercises for toning the legs and glutes?\n"}
+{"prompt":"What are the key elements ->","completion":" What are the key elements of a healthy diet?\n"}
+{"prompt":"What is ->","completion":" What is the recommended daily water intake for adults?\n"}
+{"prompt":"What are the benefits of yoga for mental and ->","completion":" What are the benefits of yoga for mental and physical health?\n"}
+{"prompt":"What is the ->","completion":" What is the best way to lose weight in a healthy and sustainable manner?\n"}
+{"prompt":"How does poor posture affect our health and how ->","completion":" How does poor posture affect our health and how can it be corrected?\n"}
+{"prompt":"What is the ->","completion":" What is the impact of stress on our physical and mental health?\n"}
+{"prompt":"How can we maintain good gut health and prevent digestive ->","completion":" How can we maintain good gut health and prevent digestive problems?\n"}
+{"prompt":"What are some ->","completion":" What are some common causes of chronic pain and how can it be treated?\n"}
+{"prompt":"What is the recommended amount of sleep ->","completion":" What is the recommended amount of sleep for adults and children?\n"}
+{"prompt":"How can we improve our mental health through exercise and ->","completion":" How can we improve our mental health through exercise and physical activity?\n"}
+{"prompt":"What are the ->","completion":" What are the dangers of sedentary behavior and how can it be prevented?\n"}
+{"prompt":"What is the best way to stay hydrated during ->","completion":" What is the best way to stay hydrated during intense physical activity?\n"}
+{"prompt":"How can ->","completion":" How can proper nutrition boost immunity and prevent illness?\n"}
+{"prompt":"What are ->","completion":" What are the most effective ways to quit smoking?\n"}
+{"prompt":"What are the long-term effects of alcohol consumption on ->","completion":" What are the long-term effects of alcohol consumption on the body?\n"}
+{"prompt":"How can we improve ->","completion":" How can we improve our balance and prevent falls as we age?\n"}
+{"prompt":"What are the most common sports injuries and how can they ->","completion":" What are the most common sports injuries and how can they be prevented?\n"}
+{"prompt":"What ->","completion":" What is the role of nutrition in maintaining a healthy pregnancy?\n"}
+{"prompt":"How ->","completion":" How can we improve our mental wellness through mindfulness and meditation?\n"}
+{"prompt":"What are the benefits of cold therapy ->","completion":" What are the benefits of cold therapy and how can it be used for recovery and pain management?\n"}
+{"prompt":"What are ->","completion":" What are the best exercises for improving cardiovascular endurance?\n"}
+{"prompt":"How ->","completion":" How can we prevent and manage type 2 diabetes through lifestyle changes?\n"}
+{"prompt":"What is the impact of poor nutrition on children’s growth and ->","completion":" What is the impact of poor nutrition on children’s growth and development?\n"}
+{"prompt":"How can we prevent and ->","completion":" How can we prevent and treat lower back pain?\n"}
+{"prompt":"What are the best exercises for improving flexibility ->","completion":" What are the best exercises for improving flexibility and mobility?\n"}
+{"prompt":"How can we improve our posture ->","completion":" How can we improve our posture and reduce back pain through ergonomics?\n"}
+{"prompt":"What are the best ->","completion":" What are the best methods for stress management and relaxation?\n"}
+{"prompt":"What is dark matter ->","completion":" What is dark matter and how is it detected?\n"}
+{"prompt":"Can you explain the theory ->","completion":" Can you explain the theory of evolution by natural selection?\n"}
+{"prompt":"What is quantum mechanics and how does it differ from classical ->","completion":" What is quantum mechanics and how does it differ from classical mechanics?\n"}
+{"prompt":"What is ->","completion":" What is the difference between photosynthesis and cellular respiration?\n"}
+{"prompt":"What is the process of cloning and how does it ->","completion":" What is the process of cloning and how does it work?\n"}
+{"prompt":"Can you use simple language to tell me about ->","completion":" Can you use simple language to tell me about the structure and function of XYZ?\n"}
+{"prompt":"What is the cause of ->","completion":" What is the cause of climate change and how can it be addressed?\n"}
+{"prompt":"What is the process of nuclear fusion and why is ->","completion":" What is the process of nuclear fusion and why is it important?\n"}
+{"prompt":"How do vaccines work and why are they important for ->","completion":" How do vaccines work and why are they important for public health?\n"}
+{"prompt":"What is the difference between renewable and non ->","completion":" What is the difference between renewable and non-renewable energy sources?\n"}
+{"prompt":"Can you explain the greenhouse effect and its impact on the Earth ->","completion":" Can you explain the greenhouse effect and its impact on the Earth’s climate?\n"}
+{"prompt":"How does the human brain process and ->","completion":" How does the human brain process and store information?\n"}
+{"prompt":"What is the Big Bang theory and how does it explain the ->","completion":" What is the Big Bang theory and how does it explain the origin of the universe?\n"}
+{"prompt":"Can you explain the process of digestion ->","completion":" Can you explain the process of digestion and how the body absorbs nutrients?\n"}
+{"prompt":"What is the water cycle ->","completion":" What is the water cycle and how does it affect weather patterns?\n"}
+{"prompt":"Can you explain the process of photosynthesis ->","completion":" Can you explain the process of photosynthesis in plants?\n"}
+{"prompt":"What is the difference ->","completion":" What is the difference between a virus, bacterium, and fungus?\n"}
+{"prompt":"How does the body’s immune system protect ->","completion":" How does the body’s immune system protect against disease?\n"}
+{"prompt":"What is the difference ->","completion":" What is the difference between atomic and molecular elements?\n"}
+{"prompt":"Can you explain the process of transpiration in ->","completion":" Can you explain the process of transpiration in plants?\n"}
+{"prompt":"What is ->","completion":" What is the difference between physical and chemical changes in matter?\n"}
+{"prompt":"How do nerve impulses transmit information ->","completion":" How do nerve impulses transmit information in the body?\n"}
+{"prompt":"What is the process of osmosis and why ->","completion":" What is the process of osmosis and why is it important in biology?\n"}
+{"prompt":"Can you explain the difference between endothermic and ex ->","completion":" Can you explain the difference between endothermic and exothermic reactions?\n"}
+{"prompt":"What is the structure and function of ->","completion":" What is the structure and function of the heart in the circulatory system?\n"}
+{"prompt":"How ->","completion":" How do plants and animals adapt to their environment?\n"}
+{"prompt":"What ->","completion":" What is the process of cell division and why is it important?\n"}
+{"prompt":"Can you ->","completion":" Can you explain the structure and function of the respiratory system?\n"}
+{"prompt":"What is the process of photosynthesis and how does ->","completion":" What is the process of photosynthesis and how does it provide energy for living organisms?\n"}
+{"prompt":"Can you explain the difference between positive and negative feedback in ->","completion":" Can you explain the difference between positive and negative feedback in biological systems?\n"}
+{"prompt":"What is the difference between ->","completion":" What is the difference between machine learning and deep learning?\n"}
+{"prompt":"How does blockchain technology work and what are its ->","completion":" How does blockchain technology work and what are its applications?\n"}
+{"prompt":"What is the future of artificial intelligence and how will ->","completion":" What is the future of artificial intelligence and how will it affect our daily lives?\n"}
+{"prompt":"What is 5G technology and what ->","completion":" What is 5G technology and what are its implications for the future of communication?\n"}
+{"prompt":"How ->","completion":" How does virtual reality technology work and what are its practical uses?\n"}
+{"prompt":"What ->","completion":" What is the Internet of Things and what impact will it have on our lives?\n"}
+{"prompt":"How do data privacy and security work in cloud ->","completion":" How do data privacy and security work in cloud computing?\n"}
+{"prompt":"What are some current trends in cybersecurity and how to ->","completion":" What are some current trends in cybersecurity and how to stay protected online?\n"}
+{"prompt":"What ->","completion":" What is quantum computing and how is it different from classical computing?\n"}
+{"prompt":"How do drones work and what are the benefits and ->","completion":" How do drones work and what are the benefits and challenges of using them?\n"}
+{"prompt":"What is augmented reality and ->","completion":" What is augmented reality and how is it different from virtual reality?\n"}
+{"prompt":"How can ->","completion":" How can machine learning be used to improve healthcare and medicine?\n"}
+{"prompt":"What is the future ->","completion":" What is the future of work and how will technology impact the job market?\n"}
+{"prompt":"What are some ethical considerations in the development and use of AI and ->","completion":" What are some ethical considerations in the development and use of AI and robotics?\n"}
+{"prompt":"What ->","completion":" What is blockchain and how does it impact the financial industry?\n"}
+{"prompt":"How can machine learning ->","completion":" How can machine learning be used to improve energy efficiency and sustainability?\n"}
+{"prompt":"What is the role of big ->","completion":" What is the role of big data in decision making and how can it be used effectively?\n"}
+{"prompt":"What are some best practices ->","completion":" What are some best practices for managing and protecting sensitive data in the digital age?\n"}
+{"prompt":"What is the role ->","completion":" What is the role of AI in automating processes and optimizing operations in various industries?\n"}
+{"prompt":"What is the future of autonomous vehicles and ->","completion":" What is the future of autonomous vehicles and how will it impact transportation and logistics?\n"}
+{"prompt":"What is the impact of AI on job ->","completion":" What is the impact of AI on job displacement and how can it be mitigated?\n"}
+{"prompt":"How does ->","completion":" How does 5G technology impact the development of the Internet of Things?\n"}
+{"prompt":"What are some of the ->","completion":" What are some of the challenges and limitations of machine learning and AI?\n"}
+{"prompt":"What is ->","completion":" What is the future of digital identity and how will it impact personal privacy and security?\n"}
+{"prompt":"How can machine learning be used to tackle environmental problems ->","completion":" How can machine learning be used to tackle environmental problems and improve sustainability?\n"}
+{"prompt":"What ->","completion":" What is the future of smart cities and how will technology transform urban life?\n"}
+{"prompt":"What is the impact of AI on human creativity and how can it be leveraged for ->","completion":" What is the impact of AI on human creativity and how can it be leveraged for artistic expression?\n"}
+{"prompt":"How can machine ->","completion":" How can machine learning be used to improve education and enhance the learning experience?\n"}
+{"prompt":"What is the future of e-commerce and ->","completion":" What is the future of e-commerce and how will technology impact online shopping and retail?\n"}
+{"prompt":"How can machine learning ->","completion":" How can machine learning be used to tackle global problems such as poverty, inequality, and climate change?\n"}
+{"prompt":"Who is the greatest basketball player of ->","completion":" Who is the greatest basketball player of all time?\n"}
+{"prompt":"Who is the most dominant tennis ->","completion":" Who is the most dominant tennis player of the current era?\n"}
+{"prompt":"What makes Ronaldo and Messi’s rivalry so special ->","completion":" What makes Ronaldo and Messi’s rivalry so special in football?\n"}
+{"prompt":"Can ->","completion":" Can Lewis Hamilton be considered the greatest F1 driver of all time?\n"}
+{"prompt":"What is the biggest upset in the history of the ->","completion":" What is the biggest upset in the history of the Olympics?\n"}
+{"prompt":"Can the Golden State Warriors ->","completion":" Can the Golden State Warriors win another NBA championship with their current roster?\n"}
+{"prompt":"What ->","completion":" What are the most popular sports in the world?\n"}
+{"prompt":"Who are the ->","completion":" Who are the top 5 footballers of the 21st century?\n"}
+{"prompt":"What makes ->","completion":" What makes Federer, Nadal, and Djokovic the “Big Three” in tennis?\n"}
+{"prompt":"What ->","completion":" What is the most memorable moment in the history of the World Cup?\n"}
+{"prompt":"Who is the greatest cricketer ->","completion":" Who is the greatest cricketer of all time?\n"}
+{"prompt":"Who are the most successful NFL teams of ->","completion":" Who are the most successful NFL teams of all time?\n"}
+{"prompt":"What are the ->","completion":" What are the benefits of playing sports?\n"}
+{"prompt":"What is the most-watched sporting event in ->","completion":" What is the most-watched sporting event in the world?\n"}
+{"prompt":"Who are ->","completion":" Who are the top 5 gymnasts of all time?\n"}
+{"prompt":"Explain ->","completion":" Explain pickleball to a child\n"}
+{"prompt":"What is the biggest ->","completion":" What is the biggest rival in sports?\n"}
+{"prompt":"Who are the best snowboarders in the world ->","completion":" Who are the best snowboarders in the world right now?\n"}
+{"prompt":"What is the most exciting aspect of ->","completion":" What is the most exciting aspect of the Tour de France?\n"}
+{"prompt":"Who are the ->","completion":" Who are the top 5 boxers of all time?\n"}
+{"prompt":"What makes the UEFA Champions League so special in ->","completion":" What makes the UEFA Champions League so special in football?\n"}
+{"prompt":"Can Tiger Woods win another ->","completion":" Can Tiger Woods win another major championship?\n"}
+{"prompt":"What is the ->","completion":" What is the difference between Olympic and professional boxing?\n"}
+{"prompt":"Who is the ->","completion":" Who is the greatest golfer of all time?\n"}
+{"prompt":"What makes ->","completion":" What makes the Olympic Games so special?\n"}
+{"prompt":"Who are the top 5 athletes ->","completion":" Who are the top 5 athletes in the world right now?\n"}
+{"prompt":"What is the biggest ->","completion":" What is the biggest shock in the history of the Wimbledon Championships?\n"}
+{"prompt":"What ->","completion":" What is the most popular sport in the United States?\n"}
+{"prompt":"Who are ->","completion":" Who are the best skiers in the world right now?\n"}
+{"prompt":"What makes the Ryder ->","completion":" What makes the Ryder Cup so special in golf?\n"}
+{"prompt":"What are the top must-visit ->","completion":" What are the top must-visit destinations in Europe?\n"}
+{"prompt":"What are the best budget-friendly travel destinations ->","completion":" What are the best budget-friendly travel destinations in Asia?\n"}
+{"prompt":"How to plan a road ->","completion":" How to plan a road trip in the USA?\n"}
+{"prompt":"How to ->","completion":" How to travel safely during the pandemic?\n"}
+{"prompt":"What are the best scenic train journeys ->","completion":" What are the best scenic train journeys in the world?\n"}
+{"prompt":"How to find the ->","completion":" How to find the cheapest flight tickets?\n"}
+{"prompt":"What are ->","completion":" What are the best adventure travel destinations?\n"}
+{"prompt":"How to pack efficiently for a long ->","completion":" How to pack efficiently for a long trip?\n"}
+{"prompt":"What are the most ->","completion":" What are the most Instagram-worthy spots in Australia?\n"}
+{"prompt":"How ->","completion":" How to travel sustainably?\n"}
+{"prompt":"What are ->","completion":" What are the best cultural experiences in South America?\n"}
+{"prompt":"How to find ->","completion":" How to find the best food destinations in Italy?\n"}
+{"prompt":"What are the best wildlife viewing destinations in ->","completion":" What are the best wildlife viewing destinations in Africa?\n"}
+{"prompt":"How to save money while ->","completion":" How to save money while traveling?\n"}
+{"prompt":"What are the best destinations for a beach ->","completion":" What are the best destinations for a beach holiday?\n"}
+{"prompt":"How to plan a multi ->","completion":" How to plan a multi-country trip in Europe?\n"}
+{"prompt":"What are the top ->","completion":" What are the top destinations for winter sports?\n"}
+{"prompt":"How to find the best host ->","completion":" How to find the best hostels for solo travelers?\n"}
+{"prompt":"What are the best road trip ->","completion":" What are the best road trip routes in Canada?\n"}
+{"prompt":"How ->","completion":" How to choose the best travel insurance?\n"}
+{"prompt":"What are the ->","completion":" What are the most unique accommodations around the world?\n"}
+{"prompt":"How ->","completion":" How to travel with children.\n"}
+{"prompt":"What are the ->","completion":" What are the best places to visit in the Middle East?\n"}
+{"prompt":"How to travel on a ->","completion":" How to travel on a shoestring budget?\n"}
+{"prompt":"What are the best scenic drives ->","completion":" What are the best scenic drives in New Zealand?\n"}
+{"prompt":"How to find ->","completion":" How to find hidden gems in popular tourist destinations?\n"}
+{"prompt":"What are the top ->","completion":" What are the top destinations for outdoor activities?\n"}
+{"prompt":"How to plan a trip ->","completion":" How to plan a trip to the Amazon rainforest?\n"}
+{"prompt":"What ->","completion":" What are the most romantic destinations for couples?\n"}
+{"prompt":"How to travel to ->","completion":" How to travel to remote destinations without breaking the bank?\n"}
